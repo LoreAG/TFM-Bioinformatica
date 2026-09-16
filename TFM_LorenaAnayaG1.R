@@ -22,6 +22,7 @@ bioc_pkgs <- c(
 
 cran_pkgs <- c(
   "ggplot2",
+  "stringr",
   "ggrepel",
   "pheatmap",
   "RColorBrewer",
