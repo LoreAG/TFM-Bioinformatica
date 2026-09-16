@@ -76,8 +76,7 @@ library(VennDiagram)
 dirs <- c(
   "Resultados",
   "Resultados/Figuras",
-  "Resultados/GO",
-  "Resultados/Tablas"
+  "Resultados/GO"
 )
 
 for(d in dirs){
